@@ -1,1 +1,1 @@
-# KNN-Implementation-Python
+# Flower-Classification-KNN-Scikit-Learn-Python
